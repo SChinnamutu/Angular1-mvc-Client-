@@ -1,0 +1,12 @@
+body {
+	background-image: url(http://www.joburgchiropractor.co.za/images/background.jpg);
+	padding-top: 40px;
+}
+.container {
+	width: 60%;
+}
+.width_full{
+    width:100% !important;
+    margin-top: 51px;
+}
+
